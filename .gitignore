@@ -1,0 +1,11 @@
+*~
+*#
+*.#*
+*.o
+*.ppu
+*.pyc
+*.exe
+gen
+lib
+./retro
+
