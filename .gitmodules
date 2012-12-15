@@ -4,3 +4,6 @@
 [submodule "lib/xpl"]
 	path = lib/xpl
 	url = git@github.com:goldsmile/xpl.git
+[submodule "lib/retro"]
+	path = lib/retro
+	url = git@github.com:goldsmile/retro-language.git
