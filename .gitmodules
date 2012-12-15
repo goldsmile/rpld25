@@ -1,0 +1,6 @@
+[submodule "lib/ngaro-pas"]
+	path = lib/ngaro-pas
+	url = git@github.com:goldsmile/ngaro-pas.git
+[submodule "lib/xpl"]
+	path = lib/xpl
+	url = git@github.com:goldsmile/xpl.git
